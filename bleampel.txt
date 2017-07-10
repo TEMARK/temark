@@ -5,9 +5,4 @@ asfas
 dasdfasdffdasdfk
 1
 3333
-<<<<<<< HEAD
 5555
-=======
-4444
-555
->>>>>>> 5e7f558034826647956ea9db5fdd879a3dfc3746
